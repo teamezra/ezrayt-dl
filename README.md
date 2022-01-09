@@ -63,9 +63,9 @@ bash setup.sh
 
 ## Thanks & Credits:
 
--[King Viruzz](https://instagram.com/king_viruzz?utm_medium=copy_link)
--[Arun Shaji Kailasam](https://instagram.com/pr1nc3_0f_h4ck3rs?utm_medium=copy_link)
--[Juan Cristy](https://instagram.com/__juan__cristy__?utm_medium=copy_link)
+- [King Viruzz](https://instagram.com/king_viruzz?utm_medium=copy_link)
+- [Arun Shaji Kailasam](https://instagram.com/pr1nc3_0f_h4ck3rs?utm_medium=copy_link)
+- [Juan Cristy](https://instagram.com/__juan__cristy__?utm_medium=copy_link)
 - [Cyber Warrior](https://telegram.dog/Cyberw4rriors)
 - [@teamezra](https://telegram.dog/teamezra)
 
