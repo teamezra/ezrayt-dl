@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-apt install git
+pkg install git
 
 git clone https://github.com/teamezra/ezrayt-dl
 
