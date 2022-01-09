@@ -1,1 +1,71 @@
-# ezrayt-dl
+# ezrayt-dl# teamezra
+
+### Hi there 👋
+
+<!--
+**Exra Youtube Downloader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 Faster Download in Slow Speed Internet
+- 🌱 Faster Loading
+- 👯 Fast Share in Launchet
+- 🤔 Smooth Overall Working
+- 💬 Shorts,Yt-Playlist Downloads
+- 📫 From Team Ezra 
+- 😄 Able to Download in Different Qualities
+- ⚡ High Quality Audio Definition
+-->
+
+[<p align="center">
+<img src="https://telegra.ph/file/dcaa2520bf493bf48a69c.jpg">](https://youtube.com/channel/UCd27MwwdTQ530Sy6qyxZBqw)
+
+## [⚡TEAM EZRA⚡](https://t.me/teamEzra)
+
+- 🔭 Using this tool you can easily Download YouTube, Facebook, Instagram videos and audio using Termux.
+
+## Telegram Support Group:
+<a href="https://t.me/teamEzra"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+* Join Telegram group for help, feedback, details and chats.
+
+## Usage:
+### First Do Setup:
+```bash
+
+pkg install git
+
+apt install wget -y
+
+wget https://github.com/teamezra/ezrayt-dl/raw/main/setup.sh
+
+chmod +x setup.sh
+
+./setup.sh
+```
+### Share YouTube Video to Termux:
+[![Share Video](https://telegra.ph/file/265d9e748f703f227dbca.jpg)](https://t.me/teamEzra)
+
+[![With Termux](https://telegra.ph/file/8fd546c37ab766da2b1c8.jpg)](https://t.me/teamEzra)
+
+#### Note:
+
+
+## License:
+[![GitHub](https://img.shields.io/github/license/teamezra/ezrayt-dl?color=blue)](https://github.com/teamezra/ezrayt-dl/blob/master/LICENSE)
+
+- If you need more help:
+    - <a href="https://t.me/teamezra"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+---
+
+## Follow on:
+<a href="https://github.com/teamezra"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a> <a href="https://twitter.com/teamezra"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a> <a href="https://facebook.com/teamezra"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a> <a href="https://instagram.com/teamezra"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+
+## Thanks & Credits:
+
+-[King Viruzz](https://instagram.com/king_viruzz?utm_medium=copy_link)
+-[Arun Shaji Kailasam](https://instagram.com/pr1nc3_0f_h4ck3rs?utm_medium=copy_link)
+-[Juan Cristy](https://instagram.com/__juan__cristy__?utm_medium=copy_link)
+- [Cyber Warrior](https://telegram.dog/Cyberw4rriors)
+- [@teamezra](https://telegram.dog/teamezra)
+
