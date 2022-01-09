@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ### First Do Setup:
 ```bash
 
-pkg install git
 
-apt install wget -y
 
-wget https://github.com/teamezra/ezrayt-dl/raw/main/setup.sh
+apt install git
+
+git clone https://github.com/teamezra/ezrayt-dl
 
 chmod +x setup.sh
 
