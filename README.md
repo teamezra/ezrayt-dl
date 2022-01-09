@@ -1,4 +1,4 @@
-# ezrayt-dl# teamezra
+# ezrayt-dl# Ezra Youtube Downloader
 
 ### EZRA YOUTUBE DOWNLOADER👋
 
