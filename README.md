@@ -61,7 +61,7 @@ bash setup.sh
 ---
 
 ## Follow on:
-<a href="https://github.com/teamezra"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a> <a href="https://twitter.com/teamezra"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a> <a href="https://facebook.com/teamezra"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a> <a href="https://instagram.com/__tm_ezra__?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://github.com/teamezra/ezrayt-dl/blob/main/README.md"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a> <a href="https://twitter.com/teamezra"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a> <a href="https://facebook.com/teamezra"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a> <a href="https://instagram.com/__tm_ezra__?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 
 ## Thanks & Credits:
 
