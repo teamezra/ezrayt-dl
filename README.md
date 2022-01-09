@@ -41,7 +41,6 @@ git clone https://github.com/teamezra/ezrayt-dl
 
 cd ezrayt-dl
 
-
 chmod +x setup.sh
 
 bash setup.sh
