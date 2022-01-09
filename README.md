@@ -54,7 +54,7 @@ bash setup.sh
 
 
 ## License:
-[![GitHub](https://img.shields.io/github/license/teamezra/ezrayt-dl?color=blue)](https://github.com/teamezra/ezrayt-dl/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/teamezra/ezrayt-dl?color=blue)](https://github.com/teamezra/ezrayt-dl/blob/main/LICENSE)
 
 - If you need more help:
     - <a href="https://t.me/teamezra"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
