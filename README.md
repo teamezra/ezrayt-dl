@@ -3,7 +3,7 @@
 ### EZRA YOUTUBE DOWNLOADER👋
 
 <!--
-**teamezra/ezrayt-dl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EZRA YOUTUBE DOWNLOADER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
