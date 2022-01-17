@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## [⚡TEAM EZRA⚡](https://t.me/teamEzra)
 
-- 🔭 Using this tool you can easily Download YouTube, Facebook, Instagram videos and audio using Termux.
+- 🔭 Using this tool you can easily Download YouTube videos and audio using Termux.
 
 ## Telegram Support Group:
 <a href="https://t.me/teamEzra"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
